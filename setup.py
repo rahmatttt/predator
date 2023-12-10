@@ -12,6 +12,6 @@ setup(
         "transformers",
         "datasets",
         "texthero",
-        "sklearn",
+        "scikit-learn",
     ],
 )
